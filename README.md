@@ -43,7 +43,7 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
 </details>
 
-<b><details><summary>🔄How to Update Bot🔄</summary>
+<b><details><summary>🔄كيفية تحديث البوت🔄</summary>
 
 > [VIDEO](https://drive.google.com/file/d/1798s8erVW31EcmK3Opq-QuV7GG4byyoH/view)
 
